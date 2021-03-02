@@ -1,4 +1,4 @@
 # numerical-methods
 Numerical Methods for Engineering
 
-These are just some implementatons of algorithms used in numerical methods
+These are just some implementations of algorithms used in numerical methods
